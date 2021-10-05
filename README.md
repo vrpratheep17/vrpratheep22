@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratheep
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Masters in Advanced Computer Science
+- 🌱 Pursuing Masters in Advanced Computer Science at the University of Leicester
 - 💞️ I’m looking to collaborate on JS contribution and Product Development
 - 📫 Reach me at +44 7404822952 or vrpratheep22@gmail.com
 
